@@ -3,7 +3,7 @@
 
 RU:
 1. Скопируйте и сохраните в любом удобном месте свои уже имеющиеся сохранения по пути:
-"Fly Corp\Fly Corp_Data\StreamingAssets\PlayerSaves\"
+"Fly Corp\Fly Corp_Data\StreamingAssets\PlayerSaves\\"
 2. Скопируйте с заменой папку "Fly Corp_Data" в папку с игрой.
 4. Запустить игру.
 5. Выбрать в главном меню "Загрузить игру".
