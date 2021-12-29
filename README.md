@@ -1,4 +1,4 @@
-# Fly-Corp_Saves v1
+# Fly-Corp_Saves v2
 Сохранения "свободного режима" к игре Fly Corp
 
 RU:
