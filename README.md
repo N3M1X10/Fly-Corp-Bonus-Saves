@@ -4,6 +4,7 @@
 RU:
 1. Скопируйте и сохраните в любом удобном месте свои уже имеющиеся сохранения по пути:
 "Fly Corp\Fly Corp_Data\StreamingAssets\PlayerSaves\\"
+ВАЖНО: Удалить свои сохранения перед установкой моих.
 2. Скопируйте с заменой папку "Fly Corp_Data" в папку с игрой.
 4. Запустить игру.
 5. Выбрать в главном меню "Загрузить игру".
@@ -14,6 +15,7 @@ RU:
 EN:
 1. Copy and save in any convenient place your existing save along the way:
 "Fly Corp\Fly Corp_Data\StreamingAssets\PlayerSaves\\"
+IMPORTANT: Delete your saves before installing mine.
 2. Copy the "Fly Corp_Data" folder with the replacement to the game folder.
 3. Start the game.
 4. Select "Load game" in the main menu.
