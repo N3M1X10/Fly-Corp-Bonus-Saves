@@ -1,5 +1,4 @@
 # Fly-Corp_Saves v4 (For version 0.2.419)
-(Game on Rutracker.org - https://rutracker.org/forum/viewtopic.php?t=6155192)
 
 Сохранения "свободного режима" к игре Fly Corp
 
