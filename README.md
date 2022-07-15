@@ -1,4 +1,4 @@
-# Fly-Corp_Saves v4 (For version 0.2.422)
+# Fly-Corp_Saves v4 (For version 0.3.8)
 
 Сохранения "свободного режима" к игре Fly Corp
 
