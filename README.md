@@ -1,8 +1,9 @@
-# Fly-Corp_Saves (For version 1.0.5)
+# Fly Corp Bonus Saves for version 1.1.5
+![](https://i116.fastpic.org/big/2021/1224/22/93daa3b8548202992c9e5139a3f56722.jpeg)
+## [Download / Скачать](https://github.com/N3M1X10/Fly-Corp-Bonus-Saves/releases)
 
-### Download/Скачать: https://github.com/N3M1X10/Fly-Corp-Bonus-Saves/releases
+### Инструкция
 
-------------------------------------------------------------------------------
 Сохранения "свободного режима" для Fly Corp
 
 RU:
