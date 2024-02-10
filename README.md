@@ -8,9 +8,9 @@
 
 RU:
 1. Скопируйте и сохраните в любом удобном месте свои уже имеющиеся сохранения по путям:
-"Fly Corp\Saves\" и "Fly Corp\Fly Corp_Data\StreamingAssets\PlayerSaves\"
-ВАЖНО: Удалить свои сохранения перед установкой моих.
-2. Скопируйте с заменой папки "Fly Corp_Data" и "Saves" в папку с игрой.
+Настройки "Fly Corp\Saves\" и сохранения "Fly Corp\Fly Corp_Data\StreamingAssets\PlayerSaves\"
+ВАЖНО: Удалить/переместить свои сохранения перед установкой моих.
+2. Скопируйте с заменой папки "Fly Corp_Data" в папку с игрой.
 4. Запустить игру.
 5. Выбрать в главном меню "Загрузить игру".
 6. Тестировать моё сохранение.
@@ -18,10 +18,12 @@ RU:
 С уважением NEMIX.
 
 EN:
-1. Copy and save in any convenient place your existing save along the paths:
-"Fly Corp\Saves\" and "Fly Corp\Fly Corp_Data\StreamingAssets\PlayerSaves\"
-IMPORTANT: Delete your saves before installing mine.
-2. Copy the "Fly Corp_Data" and "Saves" folders with the replacement to the game folder.
+Game Saves for "Free Mode" or something for Fly Corp
+
+1. Copy and save in any convenient place your existing gamesaves along the paths:
+Settings "Fly Corp\Saves\" and gamesaves "Fly Corp\Fly Corp_Data\StreamingAssets\PlayerSaves\"
+IMPORTANT: Delete/relocate your saves before installing mine.
+2. Copy the "Fly Corp_Data" folders with the replacement to the game folder.
 3. Start the game.
 4. Select "Load game" in the main menu.
 5. Test my save.
