@@ -4,9 +4,11 @@
 
 ### Инструкция
 
-Сохранения "свободного режима" для Fly Corp
 
 RU:
+
+Сохранения "свободного режима" для Fly Corp
+
 1. Скопируйте и сохраните в любом удобном месте свои уже имеющиеся сохранения по путям:
 Настройки "Fly Corp\Saves\" и сохранения "Fly Corp\Fly Corp_Data\StreamingAssets\PlayerSaves\"
 ВАЖНО: Удалить/переместить свои сохранения перед установкой моих.
@@ -15,9 +17,9 @@ RU:
 5. Выбрать в главном меню "Загрузить игру".
 6. Тестировать моё сохранение.
 
-С уважением NEMIX.
-
+---
 EN:
+
 Game Saves for "Free Mode" or something for Fly Corp
 
 1. Copy and save in any convenient place your existing gamesaves along the paths:
@@ -27,5 +29,3 @@ IMPORTANT: Delete/relocate your saves before installing mine.
 3. Start the game.
 4. Select "Load game" in the main menu.
 5. Test my save.
-
-Regards NEMIX.
