@@ -10,8 +10,8 @@
 Сохранения "Свободного режима" для Fly Corp
 
 1. Скопируйте и сохраните в любом удобном месте свои уже имеющиеся сохранения по путям:
-- Настройки: `Fly Corp\Saves\`
-- Cохранения: `Fly Corp\Fly Corp_Data\StreamingAssets\PlayerSaves\`
+- Настройки: `Fly Corp\Fly Corp_Data\StreamingAssets\Saves`
+- Cохранения: `Fly Corp\Fly Corp_Data\StreamingAssets\PlayerSaves`
 - **ВАЖНО:** Удалить/Переместить свои сохранения перед установкой моих. 
 3. Скопируйте с заменой папку `Fly Corp_Data` в папку с игрой. 
 4. Запустить игру. 
@@ -24,8 +24,8 @@
 Game Saves of Free Mode for Fly Corp
 
 1. Copy and save in any convenient place your existing gamesaves along the paths:
-- Settings: `Fly Corp\Saves\`
-- Gamesaves: `Fly Corp\Fly Corp_Data\StreamingAssets\PlayerSaves\`
+- Settings: `Fly Corp\Fly Corp_Data\StreamingAssets\Saves`
+- Gamesaves: `Fly Corp\Fly Corp_Data\StreamingAssets\PlayerSaves`
 - **IMPORTANT:** Delete/Relocate your saves before installing mine. 
 3. Copy the `Fly Corp_Data` folder with the replacement to the game folder. 
 4. Start the game. 
